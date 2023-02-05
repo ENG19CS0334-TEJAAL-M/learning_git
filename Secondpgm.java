@@ -9,6 +9,8 @@ public class Secondpgm
 	int a=9,b=2;
 	int sum=a+b;
 	System.out.println(sum);
+
 	int diff=a-b;
 	System.out.println(diff);
+
 }
